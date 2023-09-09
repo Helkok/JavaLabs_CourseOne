@@ -12,3 +12,4 @@ build/
 *.war
 *.ear
 .DS_Store
+lab1/src/test/
